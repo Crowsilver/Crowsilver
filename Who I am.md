@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Crowsilver
+- 👋 Hi, I’m @Crowsilver from Brazil
 - 👀 I’m interested in learn the tolls to treat dates
 - 🌱 I’m currently I´m studying Python, SQL, VBA , Excel,PBI and Statistics
 - 💞️ I’m looking to collaborate on new project in medicine , agriculture, business
